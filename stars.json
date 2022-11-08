@@ -1,21 +1,21 @@
 [
   {
     "full_name": "louthy/language-ext",
-    "stargazers_count": 5013,
+    "stargazers_count": 5022,
     "open_issues_count": 50,
     "forks_count": 369
   },
   {
     "full_name": "naqushab/ScalerAcademy",
-    "stargazers_count": 133,
+    "stargazers_count": 135,
     "open_issues_count": 0,
-    "forks_count": 62
+    "forks_count": 64
   },
   {
     "full_name": "sbvkrishna/low-level-design",
     "stargazers_count": 105,
     "open_issues_count": 0,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "imk13/low-level-design",
@@ -27,61 +27,61 @@
     "full_name": "sanyathisside/System-Design",
     "stargazers_count": 68,
     "open_issues_count": 0,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "anomaly2104/chess-low-level-system-design",
-    "stargazers_count": 85,
+    "stargazers_count": 86,
     "open_issues_count": 2,
-    "forks_count": 65
+    "forks_count": 66
   },
   {
     "full_name": "anomaly2104/cache-low-level-system-design",
     "stargazers_count": 112,
     "open_issues_count": 2,
-    "forks_count": 81
+    "forks_count": 82
   },
   {
     "full_name": "imkgarg/Awesome-Software-Engineering-Interview",
-    "stargazers_count": 406,
+    "stargazers_count": 408,
     "open_issues_count": 0,
-    "forks_count": 143
+    "forks_count": 144
   },
   {
     "full_name": "prasadgujar/low-level-design-primer",
-    "stargazers_count": 4408,
+    "stargazers_count": 4420,
     "open_issues_count": 19,
-    "forks_count": 1607
+    "forks_count": 1616
   },
   {
     "full_name": "kumaransg/LLD",
-    "stargazers_count": 585,
+    "stargazers_count": 587,
     "open_issues_count": 0,
-    "forks_count": 256
+    "forks_count": 258
   },
   {
     "full_name": "arpitbbhayani/system-design-questions",
-    "stargazers_count": 996,
+    "stargazers_count": 998,
     "open_issues_count": 3,
     "forks_count": 225
   },
   {
     "full_name": "asatarin/testing-distributed-systems",
-    "stargazers_count": 2144,
+    "stargazers_count": 2146,
     "open_issues_count": 0,
     "forks_count": 196
   },
   {
     "full_name": "jepsen-io/maelstrom",
-    "stargazers_count": 778,
+    "stargazers_count": 780,
     "open_issues_count": 3,
     "forks_count": 53
   },
   {
     "full_name": "tendermint/tendermint",
-    "stargazers_count": 5257,
-    "open_issues_count": 592,
-    "forks_count": 1838
+    "stargazers_count": 5258,
+    "open_issues_count": 586,
+    "forks_count": 1840
   },
   {
     "full_name": "efficient/epaxos",
@@ -91,92 +91,92 @@
   },
   {
     "full_name": "jepsen-io/jepsen",
-    "stargazers_count": 5882,
-    "open_issues_count": 49,
+    "stargazers_count": 5886,
+    "open_issues_count": 48,
     "forks_count": 666
   },
   {
     "full_name": "microsoft/coyote",
-    "stargazers_count": 1290,
+    "stargazers_count": 1291,
     "open_issues_count": 29,
     "forks_count": 69
   },
   {
     "full_name": "microsoft/restler-fuzzer",
-    "stargazers_count": 1790,
+    "stargazers_count": 1794,
     "open_issues_count": 160,
     "forks_count": 201
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 45058,
+    "stargazers_count": 45099,
     "open_issues_count": 0,
-    "forks_count": 9642
+    "forks_count": 9649
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 48276,
-    "open_issues_count": 846,
-    "forks_count": 6521
+    "stargazers_count": 48301,
+    "open_issues_count": 835,
+    "forks_count": 6520
   },
   {
     "full_name": "tikv/tikv",
-    "stargazers_count": 12128,
-    "open_issues_count": 1284,
-    "forks_count": 1860
+    "stargazers_count": 12157,
+    "open_issues_count": 1281,
+    "forks_count": 1863
   },
   {
     "full_name": "CoatiSoftware/Sourcetrail",
-    "stargazers_count": 12990,
+    "stargazers_count": 13001,
     "open_issues_count": 356,
-    "forks_count": 1105
+    "forks_count": 1107
   },
   {
     "full_name": "mit-pdos/noria",
-    "stargazers_count": 4441,
+    "stargazers_count": 4439,
     "open_issues_count": 48,
-    "forks_count": 225
+    "forks_count": 224
   },
   {
     "full_name": "etcd-io/etcd",
-    "stargazers_count": 41693,
-    "open_issues_count": 152,
-    "forks_count": 8897
+    "stargazers_count": 41725,
+    "open_issues_count": 151,
+    "forks_count": 8904
   },
   {
     "full_name": "google/truth",
-    "stargazers_count": 2537,
+    "stargazers_count": 2539,
     "open_issues_count": 79,
     "forks_count": 263
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 201972,
-    "open_issues_count": 338,
-    "forks_count": 36357
+    "stargazers_count": 202272,
+    "open_issues_count": 339,
+    "forks_count": 36430
   },
   {
     "full_name": "awslabs/amazon-dynamodb-lock-client",
-    "stargazers_count": 361,
+    "stargazers_count": 362,
     "open_issues_count": 48,
     "forks_count": 81
   },
   {
     "full_name": "slacka/WoeUSB",
-    "stargazers_count": 3352,
+    "stargazers_count": 3351,
     "open_issues_count": 85,
     "forks_count": 330
   },
   {
     "full_name": "hyperledger/fabric",
-    "stargazers_count": 14115,
-    "open_issues_count": 127,
-    "forks_count": 8274
+    "stargazers_count": 14129,
+    "open_issues_count": 125,
+    "forks_count": 8281
   },
   {
     "full_name": "mockk/mockk",
-    "stargazers_count": 4700,
-    "open_issues_count": 178,
-    "forks_count": 269
+    "stargazers_count": 4704,
+    "open_issues_count": 179,
+    "forks_count": 271
   }
 ]

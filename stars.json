@@ -1,13 +1,13 @@
 [
   {
     "full_name": "louthy/language-ext",
-    "stargazers_count": 5100,
-    "open_issues_count": 42,
+    "stargazers_count": 5109,
+    "open_issues_count": 41,
     "forks_count": 369
   },
   {
     "full_name": "naqushab/ScalerAcademy",
-    "stargazers_count": 143,
+    "stargazers_count": 144,
     "open_issues_count": 0,
     "forks_count": 72
   },
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "imkgarg/Awesome-Software-Engineering-Interview",
-    "stargazers_count": 426,
+    "stargazers_count": 427,
     "open_issues_count": 0,
     "forks_count": 148
   },
   {
     "full_name": "prasadgujar/low-level-design-primer",
-    "stargazers_count": 4504,
+    "stargazers_count": 4510,
     "open_issues_count": 19,
-    "forks_count": 1646
+    "forks_count": 1647
   },
   {
     "full_name": "kumaransg/LLD",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "arpitbbhayani/system-design-questions",
-    "stargazers_count": 1048,
+    "stargazers_count": 1052,
     "open_issues_count": 3,
     "forks_count": 234
   },
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "jepsen-io/maelstrom",
-    "stargazers_count": 791,
+    "stargazers_count": 792,
     "open_issues_count": 3,
     "forks_count": 53
   },
   {
     "full_name": "tendermint/tendermint",
-    "stargazers_count": 5307,
-    "open_issues_count": 617,
-    "forks_count": 1876
+    "stargazers_count": 5313,
+    "open_issues_count": 613,
+    "forks_count": 1875
   },
   {
     "full_name": "efficient/epaxos",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "jepsen-io/jepsen",
-    "stargazers_count": 5912,
+    "stargazers_count": 5918,
     "open_issues_count": 50,
-    "forks_count": 670
+    "forks_count": 671
   },
   {
     "full_name": "microsoft/coyote",
@@ -103,80 +103,80 @@
   },
   {
     "full_name": "microsoft/restler-fuzzer",
-    "stargazers_count": 1812,
-    "open_issues_count": 161,
+    "stargazers_count": 1815,
+    "open_issues_count": 162,
     "forks_count": 205
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 46134,
+    "stargazers_count": 46186,
     "open_issues_count": 0,
-    "forks_count": 9764
+    "forks_count": 9772
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 49654,
+    "stargazers_count": 49767,
     "open_issues_count": 828,
-    "forks_count": 6614
+    "forks_count": 6624
   },
   {
     "full_name": "tikv/tikv",
-    "stargazers_count": 12301,
-    "open_issues_count": 1286,
+    "stargazers_count": 12310,
+    "open_issues_count": 1292,
     "forks_count": 1882
   },
   {
     "full_name": "CoatiSoftware/Sourcetrail",
-    "stargazers_count": 13111,
+    "stargazers_count": 13119,
     "open_issues_count": 356,
-    "forks_count": 1124
+    "forks_count": 1125
   },
   {
     "full_name": "mit-pdos/noria",
-    "stargazers_count": 4520,
+    "stargazers_count": 4522,
     "open_issues_count": 47,
     "forks_count": 226
   },
   {
     "full_name": "etcd-io/etcd",
-    "stargazers_count": 42030,
+    "stargazers_count": 42063,
     "open_issues_count": 171,
-    "forks_count": 8962
+    "forks_count": 8964
   },
   {
     "full_name": "google/truth",
-    "stargazers_count": 2549,
+    "stargazers_count": 2550,
     "open_issues_count": 81,
     "forks_count": 263
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 204869,
-    "open_issues_count": 338,
-    "forks_count": 36861
+    "stargazers_count": 205166,
+    "open_issues_count": 341,
+    "forks_count": 36897
   },
   {
     "full_name": "awslabs/amazon-dynamodb-lock-client",
-    "stargazers_count": 366,
+    "stargazers_count": 368,
     "open_issues_count": 48,
-    "forks_count": 81
+    "forks_count": 80
   },
   {
     "full_name": "slacka/WoeUSB",
-    "stargazers_count": 3343,
+    "stargazers_count": 3342,
     "open_issues_count": 85,
     "forks_count": 331
   },
   {
     "full_name": "hyperledger/fabric",
-    "stargazers_count": 14227,
-    "open_issues_count": 148,
-    "forks_count": 8319
+    "stargazers_count": 14235,
+    "open_issues_count": 149,
+    "forks_count": 8321
   },
   {
     "full_name": "mockk/mockk",
-    "stargazers_count": 4745,
-    "open_issues_count": 189,
-    "forks_count": 274
+    "stargazers_count": 4749,
+    "open_issues_count": 186,
+    "forks_count": 273
   }
 ]

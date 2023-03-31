@@ -1,8 +1,8 @@
 [
   {
     "full_name": "louthy/language-ext",
-    "stargazers_count": 5353,
-    "open_issues_count": 50,
+    "stargazers_count": 5357,
+    "open_issues_count": 51,
     "forks_count": 376
   },
   {
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "prasadgujar/low-level-design-primer",
-    "stargazers_count": 4848,
+    "stargazers_count": 4853,
     "open_issues_count": 19,
     "forks_count": 1769
   },
@@ -57,11 +57,11 @@
     "full_name": "kumaransg/LLD",
     "stargazers_count": 684,
     "open_issues_count": 0,
-    "forks_count": 291
+    "forks_count": 293
   },
   {
     "full_name": "arpitbbhayani/system-design-questions",
-    "stargazers_count": 1182,
+    "stargazers_count": 1183,
     "open_issues_count": 4,
     "forks_count": 249
   },
@@ -73,14 +73,14 @@
   },
   {
     "full_name": "jepsen-io/maelstrom",
-    "stargazers_count": 1255,
-    "open_issues_count": 6,
+    "stargazers_count": 1260,
+    "open_issues_count": 7,
     "forks_count": 81
   },
   {
     "full_name": "tendermint/tendermint",
-    "stargazers_count": 5455,
-    "open_issues_count": 497,
+    "stargazers_count": 5461,
+    "open_issues_count": 490,
     "forks_count": 1990
   },
   {
@@ -97,86 +97,86 @@
   },
   {
     "full_name": "microsoft/coyote",
-    "stargazers_count": 1326,
+    "stargazers_count": 1327,
     "open_issues_count": 30,
-    "forks_count": 71
+    "forks_count": 70
   },
   {
     "full_name": "microsoft/restler-fuzzer",
-    "stargazers_count": 2097,
-    "open_issues_count": 186,
-    "forks_count": 231
+    "stargazers_count": 2098,
+    "open_issues_count": 187,
+    "forks_count": 232
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 49151,
+    "stargazers_count": 49212,
     "open_issues_count": 0,
-    "forks_count": 10202
+    "forks_count": 10216
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 51052,
-    "open_issues_count": 812,
-    "forks_count": 6764
+    "stargazers_count": 51076,
+    "open_issues_count": 811,
+    "forks_count": 6768
   },
   {
     "full_name": "tikv/tikv",
-    "stargazers_count": 12857,
-    "open_issues_count": 1365,
-    "forks_count": 1932
+    "stargazers_count": 12866,
+    "open_issues_count": 1375,
+    "forks_count": 1935
   },
   {
     "full_name": "CoatiSoftware/Sourcetrail",
-    "stargazers_count": 13342,
+    "stargazers_count": 13348,
     "open_issues_count": 356,
-    "forks_count": 1174
+    "forks_count": 1179
   },
   {
     "full_name": "mit-pdos/noria",
-    "stargazers_count": 4625,
+    "stargazers_count": 4628,
     "open_issues_count": 47,
     "forks_count": 235
   },
   {
     "full_name": "etcd-io/etcd",
-    "stargazers_count": 42991,
-    "open_issues_count": 240,
-    "forks_count": 9142
+    "stargazers_count": 43015,
+    "open_issues_count": 238,
+    "forks_count": 9150
   },
   {
     "full_name": "google/truth",
-    "stargazers_count": 2576,
-    "open_issues_count": 83,
+    "stargazers_count": 2577,
+    "open_issues_count": 82,
     "forks_count": 266
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 215273,
-    "open_issues_count": 366,
-    "forks_count": 38355
+    "stargazers_count": 215512,
+    "open_issues_count": 367,
+    "forks_count": 38390
   },
   {
     "full_name": "awslabs/amazon-dynamodb-lock-client",
-    "stargazers_count": 393,
+    "stargazers_count": 391,
     "open_issues_count": 41,
     "forks_count": 86
   },
   {
     "full_name": "slacka/WoeUSB",
-    "stargazers_count": 3344,
+    "stargazers_count": 3342,
     "open_issues_count": 85,
     "forks_count": 330
   },
   {
     "full_name": "hyperledger/fabric",
-    "stargazers_count": 14450,
-    "open_issues_count": 149,
-    "forks_count": 8485
+    "stargazers_count": 14454,
+    "open_issues_count": 154,
+    "forks_count": 8489
   },
   {
     "full_name": "mockk/mockk",
     "stargazers_count": 4899,
-    "open_issues_count": 221,
+    "open_issues_count": 223,
     "forks_count": 286
   }
 ]

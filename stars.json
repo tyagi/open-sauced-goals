@@ -1,69 +1,81 @@
 [
   {
+    "full_name": "Azure-Samples/openai",
+    "stargazers_count": 83,
+    "open_issues_count": 2,
+    "forks_count": 27
+  },
+  {
+    "full_name": "microsoft/DiskANN",
+    "stargazers_count": 400,
+    "open_issues_count": 89,
+    "forks_count": 114
+  },
+  {
     "full_name": "pulumi/pulumi-ai",
-    "stargazers_count": 99,
-    "open_issues_count": 10,
+    "stargazers_count": 105,
+    "open_issues_count": 14,
     "forks_count": 0
   },
   {
     "full_name": "Mooler0410/LLMsPracticalGuide",
-    "stargazers_count": 3176,
-    "open_issues_count": 6,
-    "forks_count": 203
+    "stargazers_count": 3521,
+    "open_issues_count": 7,
+    "forks_count": 229
   },
   {
     "full_name": "tandasat/Hypervisor-101-in-Rust",
-    "stargazers_count": 738,
+    "stargazers_count": 741,
     "open_issues_count": 2,
     "forks_count": 42
   },
   {
     "full_name": "PrefectHQ/marvin",
-    "stargazers_count": 1999,
-    "open_issues_count": 23,
-    "forks_count": 84
+    "stargazers_count": 2013,
+    "open_issues_count": 21,
+    "forks_count": 86
   },
   {
     "full_name": "hwchase17/langchain",
-    "stargazers_count": 36111,
-    "open_issues_count": 1261,
-    "forks_count": 3940
+    "stargazers_count": 37520,
+    "open_issues_count": 1324,
+    "forks_count": 4125
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 56708,
-    "open_issues_count": 331,
-    "forks_count": 11702
+    "stargazers_count": 56802,
+    "open_issues_count": 328,
+    "forks_count": 11714
   },
   {
     "full_name": "Significant-Gravitas/Auto-GPT",
-    "stargazers_count": 127275,
-    "open_issues_count": 786,
-    "forks_count": 25389
+    "stargazers_count": 129250,
+    "open_issues_count": 797,
+    "forks_count": 26064
   },
   {
     "full_name": "cocktailpeanut/dalai",
-    "stargazers_count": 11288,
-    "open_issues_count": 325,
-    "forks_count": 1301
+    "stargazers_count": 11380,
+    "open_issues_count": 327,
+    "forks_count": 1318
   },
   {
     "full_name": "waydabber/BetterDisplay",
-    "stargazers_count": 10267,
-    "open_issues_count": 111,
-    "forks_count": 232
+    "stargazers_count": 10304,
+    "open_issues_count": 112,
+    "forks_count": 236
   },
   {
     "full_name": "microsoft/VirtualClient",
     "stargazers_count": 36,
     "open_issues_count": 4,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "aws/jsii",
-    "stargazers_count": 2296,
-    "open_issues_count": 288,
-    "forks_count": 214
+    "stargazers_count": 2298,
+    "open_issues_count": 281,
+    "forks_count": 213
   },
   {
     "full_name": "aws/random-cut-forest-by-aws",
@@ -73,27 +85,27 @@
   },
   {
     "full_name": "awslabs/smithy",
-    "stargazers_count": 1339,
-    "open_issues_count": 93,
+    "stargazers_count": 1341,
+    "open_issues_count": 97,
     "forks_count": 158
   },
   {
     "full_name": "milvus-io/milvus",
-    "stargazers_count": 18203,
-    "open_issues_count": 537,
-    "forks_count": 2122
+    "stargazers_count": 18388,
+    "open_issues_count": 543,
+    "forks_count": 2139
   },
   {
     "full_name": "louthy/language-ext",
-    "stargazers_count": 5435,
-    "open_issues_count": 50,
+    "stargazers_count": 5440,
+    "open_issues_count": 51,
     "forks_count": 381
   },
   {
     "full_name": "naqushab/ScalerAcademy",
-    "stargazers_count": 190,
+    "stargazers_count": 192,
     "open_issues_count": 0,
-    "forks_count": 102
+    "forks_count": 103
   },
   {
     "full_name": "sbvkrishna/low-level-design",
@@ -109,7 +121,7 @@
   },
   {
     "full_name": "sanyathisside/System-Design",
-    "stargazers_count": 117,
+    "stargazers_count": 118,
     "open_issues_count": 0,
     "forks_count": 31
   },
@@ -121,62 +133,50 @@
   },
   {
     "full_name": "anomaly2104/cache-low-level-system-design",
-    "stargazers_count": 129,
+    "stargazers_count": 130,
     "open_issues_count": 2,
     "forks_count": 85
   },
   {
     "full_name": "imkgarg/Awesome-Software-Engineering-Interview",
-    "stargazers_count": 506,
+    "stargazers_count": 507,
     "open_issues_count": 0,
     "forks_count": 171
   },
   {
     "full_name": "prasadgujar/low-level-design-primer",
-    "stargazers_count": 4941,
+    "stargazers_count": 4950,
     "open_issues_count": 19,
-    "forks_count": 1815
+    "forks_count": 1817
   },
   {
     "full_name": "kumaransg/LLD",
     "stargazers_count": 703,
     "open_issues_count": 0,
-    "forks_count": 306
+    "forks_count": 307
   },
   {
     "full_name": "arpitbbhayani/system-design-questions",
-    "stargazers_count": 1219,
+    "stargazers_count": 1226,
     "open_issues_count": 3,
-    "forks_count": 261
+    "forks_count": 264
   },
   {
     "full_name": "asatarin/testing-distributed-systems",
-    "stargazers_count": 2240,
+    "stargazers_count": 2241,
     "open_issues_count": 1,
     "forks_count": 208
   },
   {
     "full_name": "jepsen-io/maelstrom",
-    "stargazers_count": 1562,
+    "stargazers_count": 1575,
     "open_issues_count": 10,
-    "forks_count": 104
+    "forks_count": 107
   },
   {
     "full_name": "tendermint/tendermint",
-    "stargazers_count": 5493,
-    "open_issues_count": 405,
-    "forks_count": 2015
-  },
-  {
-    "full_name": "efficient/epaxos",
-    "stargazers_count": 585,
-    "open_issues_count": 12,
-    "forks_count": 132
-  },
-  {
-    "full_name": "jepsen-io/jepsen",
-    "stargazers_count": 6113,
-    "open_issues_count": 53,
-    "forks_count": 689
+    "stargazers_count": 5495,
+    "open_issues_count": 399,
+    "forks_count": 2013
   }
 ]

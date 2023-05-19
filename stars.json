@@ -1,134 +1,158 @@
 [
   {
+    "full_name": "microsoft/guidance",
+    "stargazers_count": 5542,
+    "open_issues_count": 20,
+    "forks_count": 301
+  },
+  {
+    "full_name": "imartinez/privateGPT",
+    "stargazers_count": 18337,
+    "open_issues_count": 146,
+    "forks_count": 1857
+  },
+  {
+    "full_name": "chroma-core/chroma",
+    "stargazers_count": 5239,
+    "open_issues_count": 132,
+    "forks_count": 293
+  },
+  {
+    "full_name": "nomic-ai/gpt4all",
+    "stargazers_count": 41653,
+    "open_issues_count": 234,
+    "forks_count": 4382
+  },
+  {
     "full_name": "suno-ai/bark",
-    "stargazers_count": 18844,
+    "stargazers_count": 19281,
     "open_issues_count": 18,
-    "forks_count": 1742
+    "forks_count": 1819
   },
   {
     "full_name": "brexhq/prompt-engineering",
-    "stargazers_count": 2864,
-    "open_issues_count": 1,
-    "forks_count": 110
+    "stargazers_count": 4412,
+    "open_issues_count": 2,
+    "forks_count": 274
   },
   {
     "full_name": "statelyai/xstate",
-    "stargazers_count": 23795,
-    "open_issues_count": 210,
-    "forks_count": 1095
+    "stargazers_count": 23826,
+    "open_issues_count": 211,
+    "forks_count": 1096
   },
   {
     "full_name": "lm-sys/FastChat",
-    "stargazers_count": 19931,
-    "open_issues_count": 166,
-    "forks_count": 2198
+    "stargazers_count": 20401,
+    "open_issues_count": 187,
+    "forks_count": 2256
   },
   {
     "full_name": "awslabs/snapchange",
-    "stargazers_count": 256,
+    "stargazers_count": 294,
     "open_issues_count": 0,
     "forks_count": 13
   },
   {
     "full_name": "Azure-Samples/openai",
-    "stargazers_count": 94,
+    "stargazers_count": 104,
     "open_issues_count": 2,
-    "forks_count": 30
+    "forks_count": 32
   },
   {
     "full_name": "microsoft/DiskANN",
-    "stargazers_count": 404,
+    "stargazers_count": 409,
     "open_issues_count": 89,
-    "forks_count": 115
+    "forks_count": 117
   },
   {
     "full_name": "pulumi/pulumi-ai",
-    "stargazers_count": 105,
-    "open_issues_count": 15,
+    "stargazers_count": 107,
+    "open_issues_count": 16,
     "forks_count": 0
   },
   {
     "full_name": "Mooler0410/LLMsPracticalGuide",
-    "stargazers_count": 3717,
-    "open_issues_count": 8,
-    "forks_count": 238
+    "stargazers_count": 3969,
+    "open_issues_count": 9,
+    "forks_count": 256
   },
   {
     "full_name": "tandasat/Hypervisor-101-in-Rust",
-    "stargazers_count": 744,
+    "stargazers_count": 745,
     "open_issues_count": 2,
     "forks_count": 42
   },
   {
     "full_name": "PrefectHQ/marvin",
-    "stargazers_count": 2340,
-    "open_issues_count": 23,
-    "forks_count": 131
+    "stargazers_count": 2616,
+    "open_issues_count": 31,
+    "forks_count": 289
   },
   {
     "full_name": "hwchase17/langchain",
-    "stargazers_count": 38904,
-    "open_issues_count": 1366,
-    "forks_count": 4303
+    "stargazers_count": 39971,
+    "open_issues_count": 1384,
+    "forks_count": 4449
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 56901,
-    "open_issues_count": 331,
-    "forks_count": 11732
+    "stargazers_count": 56970,
+    "open_issues_count": 322,
+    "forks_count": 11740
   },
   {
     "full_name": "Significant-Gravitas/Auto-GPT",
-    "stargazers_count": 130970,
-    "open_issues_count": 799,
-    "forks_count": 26615
+    "stargazers_count": 132341,
+    "open_issues_count": 791,
+    "forks_count": 27022
   },
   {
     "full_name": "cocktailpeanut/dalai",
-    "stargazers_count": 11477,
-    "open_issues_count": 330,
-    "forks_count": 1326
+    "stargazers_count": 11562,
+    "open_issues_count": 332,
+    "forks_count": 1332
   },
   {
     "full_name": "waydabber/BetterDisplay",
-    "stargazers_count": 10350,
-    "open_issues_count": 98,
-    "forks_count": 236
+    "stargazers_count": 10395,
+    "open_issues_count": 99,
+    "forks_count": 237
   },
   {
     "full_name": "microsoft/VirtualClient",
     "stargazers_count": 36,
-    "open_issues_count": 4,
-    "forks_count": 7
+    "open_issues_count": 2,
+    "forks_count": 8
   },
   {
     "full_name": "aws/jsii",
-    "stargazers_count": 2302,
-    "open_issues_count": 288,
-    "forks_count": 213
+    "stargazers_count": 2304,
+    "open_issues_count": 282,
+    "forks_count": 214
   },
   {
     "full_name": "aws/random-cut-forest-by-aws",
-    "stargazers_count": 174,
-    "open_issues_count": 15,
+    "stargazers_count": 175,
+    "open_issues_count": 14,
     "forks_count": 34
   },
   {
     "full_name": "awslabs/smithy",
-    "stargazers_count": 1345,
-    "open_issues_count": 97,
+    "stargazers_count": 1348,
+    "open_issues_count": 100,
     "forks_count": 158
   },
   {
     "full_name": "milvus-io/milvus",
-    "stargazers_count": 18522,
-    "open_issues_count": 555,
-    "forks_count": 2151
+    "stargazers_count": 18652,
+    "open_issues_count": 570,
+    "forks_count": 2159
   },
   {
     "full_name": "louthy/language-ext",
-    "stargazers_count": 5448,
-    "open_issues_count": 51,
+    "stargazers_count": 5449,
+    "open_issues_count": 54,
     "forks_count": 381
   },
   {
@@ -141,7 +165,7 @@
     "full_name": "sbvkrishna/low-level-design",
     "stargazers_count": 137,
     "open_issues_count": 0,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "imk13/low-level-design",
@@ -153,30 +177,6 @@
     "full_name": "sanyathisside/System-Design",
     "stargazers_count": 118,
     "open_issues_count": 0,
-    "forks_count": 31
-  },
-  {
-    "full_name": "anomaly2104/chess-low-level-system-design",
-    "stargazers_count": 99,
-    "open_issues_count": 2,
-    "forks_count": 68
-  },
-  {
-    "full_name": "anomaly2104/cache-low-level-system-design",
-    "stargazers_count": 131,
-    "open_issues_count": 2,
-    "forks_count": 86
-  },
-  {
-    "full_name": "imkgarg/Awesome-Software-Engineering-Interview",
-    "stargazers_count": 506,
-    "open_issues_count": 0,
-    "forks_count": 171
-  },
-  {
-    "full_name": "prasadgujar/low-level-design-primer",
-    "stargazers_count": 4987,
-    "open_issues_count": 20,
-    "forks_count": 1823
+    "forks_count": 32
   }
 ]

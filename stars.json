@@ -1,69 +1,69 @@
 [
   {
     "full_name": "invoke-ai/InvokeAI",
-    "stargazers_count": 18358,
-    "open_issues_count": 359,
-    "forks_count": 1912
+    "stargazers_count": 18426,
+    "open_issues_count": 356,
+    "forks_count": 1919
   },
   {
     "full_name": "h2oai/h2ogpt",
-    "stargazers_count": 7021,
-    "open_issues_count": 190,
-    "forks_count": 822
+    "stargazers_count": 7087,
+    "open_issues_count": 194,
+    "forks_count": 838
   },
   {
     "full_name": "RUCAIBox/LLMSurvey",
-    "stargazers_count": 5205,
+    "stargazers_count": 5249,
     "open_issues_count": 21,
-    "forks_count": 413
+    "forks_count": 416
   },
   {
     "full_name": "0xpayne/gpt-migrate",
-    "stargazers_count": 6202,
-    "open_issues_count": 11,
-    "forks_count": 557
+    "stargazers_count": 6246,
+    "open_issues_count": 10,
+    "forks_count": 563
   },
   {
     "full_name": "linearmouse/linearmouse",
-    "stargazers_count": 2660,
-    "open_issues_count": 36,
-    "forks_count": 32
+    "stargazers_count": 2669,
+    "open_issues_count": 38,
+    "forks_count": 33
   },
   {
     "full_name": "AI4Finance-Foundation/FinGPT",
-    "stargazers_count": 8001,
+    "stargazers_count": 8094,
     "open_issues_count": 24,
-    "forks_count": 1830
+    "forks_count": 1843
   },
   {
     "full_name": "jncraton/languagemodels",
-    "stargazers_count": 1072,
+    "stargazers_count": 1074,
     "open_issues_count": 1,
     "forks_count": 78
   },
   {
     "full_name": "luohongyin/SAIL",
-    "stargazers_count": 135,
+    "stargazers_count": 137,
     "open_issues_count": 0,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "artidoro/qlora",
-    "stargazers_count": 7271,
-    "open_issues_count": 173,
-    "forks_count": 625
+    "stargazers_count": 7310,
+    "open_issues_count": 174,
+    "forks_count": 631
   },
   {
     "full_name": "gradio-app/gradio",
-    "stargazers_count": 21247,
-    "open_issues_count": 408,
-    "forks_count": 1447
+    "stargazers_count": 21349,
+    "open_issues_count": 421,
+    "forks_count": 1454
   },
   {
     "full_name": "arc53/DocsGPT",
-    "stargazers_count": 6346,
+    "stargazers_count": 6366,
     "open_issues_count": 29,
-    "forks_count": 632
+    "forks_count": 635
   },
   {
     "full_name": "KnowledgeCanvas/knowledge",
@@ -73,110 +73,110 @@
   },
   {
     "full_name": "kyrolabs/awesome-langchain",
-    "stargazers_count": 4631,
+    "stargazers_count": 4689,
     "open_issues_count": 0,
-    "forks_count": 289
+    "forks_count": 291
   },
   {
     "full_name": "postgresml/postgresml",
-    "stargazers_count": 3664,
-    "open_issues_count": 68,
-    "forks_count": 149
+    "stargazers_count": 3675,
+    "open_issues_count": 71,
+    "forks_count": 150
   },
   {
     "full_name": "Eugeny/tabby",
-    "stargazers_count": 50036,
-    "open_issues_count": 1542,
-    "forks_count": 3004
+    "stargazers_count": 50108,
+    "open_issues_count": 1541,
+    "forks_count": 3009
   },
   {
     "full_name": "pengxiao-song/LaWGPT",
-    "stargazers_count": 5101,
+    "stargazers_count": 5117,
     "open_issues_count": 72,
-    "forks_count": 490
+    "forks_count": 493
   },
   {
     "full_name": "jerryjliu/llama_index",
-    "stargazers_count": 20432,
-    "open_issues_count": 360,
-    "forks_count": 2333
+    "stargazers_count": 20590,
+    "open_issues_count": 364,
+    "forks_count": 2368
   },
   {
     "full_name": "davila7/code-gpt-docs",
-    "stargazers_count": 361,
+    "stargazers_count": 374,
     "open_issues_count": 77,
     "forks_count": 37
   },
   {
     "full_name": "oobabooga/text-generation-webui",
-    "stargazers_count": 21779,
-    "open_issues_count": 439,
-    "forks_count": 2861
+    "stargazers_count": 22167,
+    "open_issues_count": 432,
+    "forks_count": 2904
   },
   {
     "full_name": "nat/openplayground",
-    "stargazers_count": 5301,
-    "open_issues_count": 58,
-    "forks_count": 376
+    "stargazers_count": 5331,
+    "open_issues_count": 59,
+    "forks_count": 384
   },
   {
     "full_name": "ggerganov/llama.cpp",
-    "stargazers_count": 38909,
-    "open_issues_count": 500,
-    "forks_count": 5429
+    "stargazers_count": 39340,
+    "open_issues_count": 505,
+    "forks_count": 5488
   },
   {
     "full_name": "ggerganov/ggml",
-    "stargazers_count": 6502,
-    "open_issues_count": 148,
-    "forks_count": 618
+    "stargazers_count": 6575,
+    "open_issues_count": 157,
+    "forks_count": 621
   },
   {
     "full_name": "streamlit/streamlit",
-    "stargazers_count": 26713,
-    "open_issues_count": 671,
-    "forks_count": 2357
+    "stargazers_count": 26804,
+    "open_issues_count": 677,
+    "forks_count": 2366
   },
   {
     "full_name": "jina-ai/langchain-serve",
-    "stargazers_count": 1393,
+    "stargazers_count": 1404,
     "open_issues_count": 15,
-    "forks_count": 115
+    "forks_count": 117
   },
   {
     "full_name": "qdrant/qdrant",
-    "stargazers_count": 12446,
-    "open_issues_count": 145,
-    "forks_count": 682
+    "stargazers_count": 12498,
+    "open_issues_count": 157,
+    "forks_count": 685
   },
   {
     "full_name": "jina-ai/jina",
-    "stargazers_count": 19002,
-    "open_issues_count": 17,
-    "forks_count": 2156
+    "stargazers_count": 19024,
+    "open_issues_count": 19,
+    "forks_count": 2159
   },
   {
     "full_name": "clovaai/donut",
-    "stargazers_count": 4211,
-    "open_issues_count": 132,
-    "forks_count": 324
+    "stargazers_count": 4229,
+    "open_issues_count": 133,
+    "forks_count": 326
   },
   {
     "full_name": "microsoft/BotBuilder-Samples",
-    "stargazers_count": 4111,
-    "open_issues_count": 172,
-    "forks_count": 4821
+    "stargazers_count": 4112,
+    "open_issues_count": 171,
+    "forks_count": 4822
   },
   {
     "full_name": "logspace-ai/langflow",
-    "stargazers_count": 11748,
-    "open_issues_count": 79,
-    "forks_count": 1579
+    "stargazers_count": 11824,
+    "open_issues_count": 85,
+    "forks_count": 1599
   },
   {
     "full_name": "microsoft/PodcastCopilot",
-    "stargazers_count": 581,
+    "stargazers_count": 583,
     "open_issues_count": 2,
-    "forks_count": 117
+    "forks_count": 120
   }
 ]

@@ -7,176 +7,176 @@
   },
   {
     "full_name": "openchatai/OpenCopilot",
-    "stargazers_count": 4872,
+    "stargazers_count": 4885,
     "open_issues_count": 43,
-    "forks_count": 361
+    "forks_count": 362
   },
   {
     "full_name": "disneystreaming/smithy-translate",
-    "stargazers_count": 49,
+    "stargazers_count": 50,
     "open_issues_count": 2,
     "forks_count": 12
   },
   {
     "full_name": "disneystreaming/smithy4s",
     "stargazers_count": 324,
-    "open_issues_count": 75,
+    "open_issues_count": 76,
     "forks_count": 62
   },
   {
     "full_name": "movie-web/movie-web",
-    "stargazers_count": 19851,
-    "open_issues_count": 92,
-    "forks_count": 2533
+    "stargazers_count": 19886,
+    "open_issues_count": 84,
+    "forks_count": 2577
   },
   {
     "full_name": "radius-project/radius",
-    "stargazers_count": 1339,
-    "open_issues_count": 465,
-    "forks_count": 82
+    "stargazers_count": 1358,
+    "open_issues_count": 469,
+    "forks_count": 84
   },
   {
     "full_name": "xyflow/xyflow",
-    "stargazers_count": 20962,
-    "open_issues_count": 162,
-    "forks_count": 1386
+    "stargazers_count": 21025,
+    "open_issues_count": 163,
+    "forks_count": 1394
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 66767,
+    "stargazers_count": 66806,
     "open_issues_count": 12,
-    "forks_count": 13528
+    "forks_count": 13542
   },
   {
     "full_name": "microsoft/TypeChat",
-    "stargazers_count": 7755,
-    "open_issues_count": 70,
-    "forks_count": 364
+    "stargazers_count": 7796,
+    "open_issues_count": 71,
+    "forks_count": 367
   },
   {
     "full_name": "scylladb/scylladb",
-    "stargazers_count": 12475,
-    "open_issues_count": 3002,
-    "forks_count": 1196
+    "stargazers_count": 12488,
+    "open_issues_count": 2978,
+    "forks_count": 1197
   },
   {
     "full_name": "invoke-ai/InvokeAI",
-    "stargazers_count": 21196,
-    "open_issues_count": 461,
-    "forks_count": 2220
+    "stargazers_count": 21214,
+    "open_issues_count": 464,
+    "forks_count": 2222
   },
   {
     "full_name": "h2oai/h2ogpt",
-    "stargazers_count": 10315,
-    "open_issues_count": 244,
-    "forks_count": 1148
+    "stargazers_count": 10342,
+    "open_issues_count": 250,
+    "forks_count": 1154
   },
   {
     "full_name": "RUCAIBox/LLMSurvey",
-    "stargazers_count": 8517,
-    "open_issues_count": 18,
-    "forks_count": 650
+    "stargazers_count": 8661,
+    "open_issues_count": 19,
+    "forks_count": 663
   },
   {
     "full_name": "joshpxyne/gpt-migrate",
-    "stargazers_count": 6704,
+    "stargazers_count": 6712,
     "open_issues_count": 20,
     "forks_count": 464
   },
   {
     "full_name": "linearmouse/linearmouse",
-    "stargazers_count": 3253,
-    "open_issues_count": 62,
+    "stargazers_count": 3264,
+    "open_issues_count": 59,
     "forks_count": 52
   },
   {
     "full_name": "AI4Finance-Foundation/FinGPT",
-    "stargazers_count": 11356,
+    "stargazers_count": 11394,
     "open_issues_count": 67,
-    "forks_count": 1625
+    "forks_count": 1631
   },
   {
     "full_name": "jncraton/languagemodels",
-    "stargazers_count": 1154,
+    "stargazers_count": 1156,
     "open_issues_count": 4,
     "forks_count": 78
   },
   {
     "full_name": "luohongyin/SAIL",
-    "stargazers_count": 153,
+    "stargazers_count": 152,
     "open_issues_count": 1,
     "forks_count": 15
   },
   {
     "full_name": "artidoro/qlora",
-    "stargazers_count": 9334,
+    "stargazers_count": 9356,
     "open_issues_count": 198,
-    "forks_count": 764
+    "forks_count": 765
   },
   {
     "full_name": "gradio-app/gradio",
-    "stargazers_count": 28496,
-    "open_issues_count": 507,
-    "forks_count": 2095
+    "stargazers_count": 28593,
+    "open_issues_count": 505,
+    "forks_count": 2112
   },
   {
     "full_name": "arc53/DocsGPT",
-    "stargazers_count": 14127,
+    "stargazers_count": 14137,
     "open_issues_count": 97,
-    "forks_count": 1390
+    "forks_count": 1392
   },
   {
     "full_name": "KnowledgeCanvas/knowledge",
-    "stargazers_count": 1259,
+    "stargazers_count": 1260,
     "open_issues_count": 18,
     "forks_count": 88
   },
   {
     "full_name": "kyrolabs/awesome-langchain",
-    "stargazers_count": 6604,
-    "open_issues_count": 1,
-    "forks_count": 448
+    "stargazers_count": 6625,
+    "open_issues_count": 0,
+    "forks_count": 452
   },
   {
     "full_name": "postgresml/postgresml",
-    "stargazers_count": 5406,
-    "open_issues_count": 132,
-    "forks_count": 256
+    "stargazers_count": 5415,
+    "open_issues_count": 133,
+    "forks_count": 257
   },
   {
     "full_name": "Eugeny/tabby",
-    "stargazers_count": 54949,
-    "open_issues_count": 1839,
-    "forks_count": 3201
+    "stargazers_count": 55044,
+    "open_issues_count": 1844,
+    "forks_count": 3203
   },
   {
     "full_name": "pengxiao-song/LaWGPT",
-    "stargazers_count": 5588,
+    "stargazers_count": 5593,
     "open_issues_count": 86,
     "forks_count": 505
   },
   {
     "full_name": "run-llama/llama_index",
-    "stargazers_count": 30625,
-    "open_issues_count": 663,
-    "forks_count": 4127
+    "stargazers_count": 30732,
+    "open_issues_count": 685,
+    "forks_count": 4157
   },
   {
     "full_name": "davila7/code-gpt-docs",
-    "stargazers_count": 503,
+    "stargazers_count": 504,
     "open_issues_count": 124,
     "forks_count": 55
   },
   {
     "full_name": "oobabooga/text-generation-webui",
-    "stargazers_count": 35662,
-    "open_issues_count": 214,
-    "forks_count": 4758
+    "stargazers_count": 35798,
+    "open_issues_count": 217,
+    "forks_count": 4789
   },
   {
     "full_name": "nat/openplayground",
-    "stargazers_count": 6062,
+    "stargazers_count": 6069,
     "open_issues_count": 80,
-    "forks_count": 465
+    "forks_count": 466
   }
 ]
